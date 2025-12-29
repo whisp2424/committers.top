@@ -34,18 +34,18 @@ users:
     organizations: ""
 
   - rank: 5
-    name: "David Gap"
-    login: "KdavidGap"
-    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
-    contributions: 2
-    company: "Ram Talent co."
-    organizations: ""
-
-  - rank: 6
     name: "United voice for change international"
     login: "UNITEDVOICEFORCHANGEINTERNATIONAL"
     avatarUrl: https://avatars.githubusercontent.com/u/222842437?u=6e969a45665e1b23f09d457fc3ab003038c055a2&v=4
     contributions: 2
+    company: ""
+    organizations: ""
+
+  - rank: 6
+    name: "Chewaka fikadu "
+    login: "chewaka14"
+    avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
+    contributions: 1
     company: ""
     organizations: ""
 
@@ -58,14 +58,6 @@ users:
     organizations: ""
 
   - rank: 8
-    name: "Chewaka fikadu "
-    login: "chewaka14"
-    avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 9
     name: "Omol"
     login: "Andrew-1992"
     avatarUrl: https://avatars.githubusercontent.com/u/224121789?u=a08596fbf0089c9841563130d2dac544bb49a19e&v=4
@@ -73,12 +65,20 @@ users:
     company: "Alole Tech Solutions"
     organizations: ""
 
-  - rank: 10
+  - rank: 9
     name: "Chol Peter"
     login: "cholbol"
     avatarUrl: https://avatars.githubusercontent.com/u/128136033?v=4
     contributions: 0
     company: "charly rio "
+    organizations: ""
+
+  - rank: 10
+    name: "Dut Majak"
+    login: "DutM"
+    avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
+    contributions: 0
+    company: "SSICI Project"
     organizations: ""
 
   - rank: 11
@@ -122,11 +122,11 @@ users:
     organizations: ""
 
   - rank: 16
-    name: "Dut Majak"
-    login: "DutM"
-    avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
+    name: "Denaya Dennis"
+    login: "denayadennis"
+    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
     contributions: 0
-    company: "SSICI Project"
+    company: "@konetahub "
     organizations: ""
 
   - rank: 17
@@ -170,14 +170,6 @@ users:
     organizations: ""
 
   - rank: 22
-    name: "Denaya Dennis"
-    login: "denayadennis"
-    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
-    contributions: 0
-    company: "@konetahub "
-    organizations: ""
-
-  - rank: 23
     name: "gatkouth nyuel"
     login: "gatkouth20"
     avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
@@ -185,7 +177,7 @@ users:
     company: "st.lawrence university"
     organizations: ""
 
-  - rank: 24
+  - rank: 23
     name: "Malish Alex"
     login: "alexmalish24"
     avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
@@ -193,12 +185,20 @@ users:
     company: "United Nations Mission in South Sudan"
     organizations: ""
 
-  - rank: 25
+  - rank: 24
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 0
     company: "U,D,S revolutionary"
+    organizations: ""
+
+  - rank: 25
+    name: "David Gap"
+    login: "KdavidGap"
+    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
+    contributions: 0
+    company: "Ram Talent co."
     organizations: ""
 
   - rank: 26
@@ -267,14 +267,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 4
-    name: "Santino Anei Malong"
-    login: "santinoaneimalong"
-    avatarUrl: https://avatars.githubusercontent.com/u/214302145?u=ba944e9e1796fbb2de429ff59b2bbad9af9d9d87&v=4
-    contributions: 4
-    company: "SAMNAV SOLUTIONS"
-    organizations: ""
-
-  - rank: 5
     name: "United voice for change international"
     login: "UNITEDVOICEFORCHANGEINTERNATIONAL"
     avatarUrl: https://avatars.githubusercontent.com/u/222842437?u=6e969a45665e1b23f09d457fc3ab003038c055a2&v=4
@@ -282,12 +274,20 @@ users_public_contributions:
     company: ""
     organizations: ""
 
+  - rank: 5
+    name: "Santino Anei Malong"
+    login: "santinoaneimalong"
+    avatarUrl: https://avatars.githubusercontent.com/u/214302145?u=ba944e9e1796fbb2de429ff59b2bbad9af9d9d87&v=4
+    contributions: 4
+    company: "SAMNAV SOLUTIONS"
+    organizations: ""
+
   - rank: 6
-    name: "David Gap"
-    login: "KdavidGap"
-    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
+    name: "Omol"
+    login: "Andrew-1992"
+    avatarUrl: https://avatars.githubusercontent.com/u/224121789?u=a08596fbf0089c9841563130d2dac544bb49a19e&v=4
     contributions: 3
-    company: "Ram Talent co."
+    company: "Alole Tech Solutions"
     organizations: ""
 
   - rank: 7
@@ -299,14 +299,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 8
-    name: "Omol"
-    login: "Andrew-1992"
-    avatarUrl: https://avatars.githubusercontent.com/u/224121789?u=a08596fbf0089c9841563130d2dac544bb49a19e&v=4
-    contributions: 3
-    company: "Alole Tech Solutions"
-    organizations: ""
-
-  - rank: 9
     name: "United voice for change international"
     login: "0955ken"
     avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
@@ -314,7 +306,7 @@ users_public_contributions:
     company: "non governmental organization"
     organizations: ""
 
-  - rank: 10
+  - rank: 9
     name: "William Ror Jr"
     login: "williams-ror"
     avatarUrl: https://avatars.githubusercontent.com/u/197769484?u=872f66f48b961df81b2102f20a896c35ebb3102f&v=4
@@ -322,7 +314,7 @@ users_public_contributions:
     company: "UniPod South Sudan"
     organizations: ""
 
-  - rank: 11
+  - rank: 10
     name: "NEXT GENERATION SOLUTIONS "
     login: "next-gen-solutions-coder"
     avatarUrl: https://avatars.githubusercontent.com/u/214218297?v=4
@@ -330,12 +322,20 @@ users_public_contributions:
     company: "Next Generation Solutions"
     organizations: ""
 
-  - rank: 12
+  - rank: 11
     name: "Chol Peter"
     login: "cholbol"
     avatarUrl: https://avatars.githubusercontent.com/u/128136033?v=4
     contributions: 0
     company: "charly rio "
+    organizations: ""
+
+  - rank: 12
+    name: "Marko Makuach Garang Wol "
+    login: "GarangWol"
+    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 13
@@ -363,11 +363,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 16
-    name: "Marko Makuach Garang Wol "
-    login: "GarangWol"
-    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
+    name: "Yason "
+    login: "yason-20"
+    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
     contributions: 0
-    company: ""
+    company: "Codemate Tech "
     organizations: ""
 
   - rank: 17
@@ -411,14 +411,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 22
-    name: "Yason "
-    login: "yason-20"
-    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
-    contributions: 0
-    company: "Codemate Tech "
-    organizations: ""
-
-  - rank: 23
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
@@ -426,7 +418,7 @@ users_public_contributions:
     company: "SSICI Project"
     organizations: ""
 
-  - rank: 24
+  - rank: 23
     name: "Denaya Dennis"
     login: "denayadennis"
     avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
@@ -434,7 +426,7 @@ users_public_contributions:
     company: "@konetahub "
     organizations: ""
 
-  - rank: 25
+  - rank: 24
     name: "gatkouth nyuel"
     login: "gatkouth20"
     avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
@@ -442,7 +434,7 @@ users_public_contributions:
     company: "st.lawrence university"
     organizations: ""
 
-  - rank: 26
+  - rank: 25
     name: "Malish Alex"
     login: "alexmalish24"
     avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
@@ -450,12 +442,20 @@ users_public_contributions:
     company: "United Nations Mission in South Sudan"
     organizations: ""
 
-  - rank: 27
+  - rank: 26
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 0
     company: "U,D,S revolutionary"
+    organizations: ""
+
+  - rank: 27
+    name: "David Gap"
+    login: "KdavidGap"
+    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
+    contributions: 0
+    company: "Ram Talent co."
     organizations: ""
 
   - rank: 28
@@ -509,14 +509,6 @@ private_users:
     organizations: ""
 
   - rank: 4
-    name: "Santino Anei Malong"
-    login: "santinoaneimalong"
-    avatarUrl: https://avatars.githubusercontent.com/u/214302145?u=ba944e9e1796fbb2de429ff59b2bbad9af9d9d87&v=4
-    contributions: 4
-    company: "SAMNAV SOLUTIONS"
-    organizations: ""
-
-  - rank: 5
     name: "United voice for change international"
     login: "UNITEDVOICEFORCHANGEINTERNATIONAL"
     avatarUrl: https://avatars.githubusercontent.com/u/222842437?u=6e969a45665e1b23f09d457fc3ab003038c055a2&v=4
@@ -524,12 +516,20 @@ private_users:
     company: ""
     organizations: ""
 
+  - rank: 5
+    name: "Santino Anei Malong"
+    login: "santinoaneimalong"
+    avatarUrl: https://avatars.githubusercontent.com/u/214302145?u=ba944e9e1796fbb2de429ff59b2bbad9af9d9d87&v=4
+    contributions: 4
+    company: "SAMNAV SOLUTIONS"
+    organizations: ""
+
   - rank: 6
-    name: "David Gap"
-    login: "KdavidGap"
-    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
+    name: "Omol"
+    login: "Andrew-1992"
+    avatarUrl: https://avatars.githubusercontent.com/u/224121789?u=a08596fbf0089c9841563130d2dac544bb49a19e&v=4
     contributions: 3
-    company: "Ram Talent co."
+    company: "Alole Tech Solutions"
     organizations: ""
 
   - rank: 7
@@ -541,14 +541,6 @@ private_users:
     organizations: ""
 
   - rank: 8
-    name: "Omol"
-    login: "Andrew-1992"
-    avatarUrl: https://avatars.githubusercontent.com/u/224121789?u=a08596fbf0089c9841563130d2dac544bb49a19e&v=4
-    contributions: 3
-    company: "Alole Tech Solutions"
-    organizations: ""
-
-  - rank: 9
     name: "United voice for change international"
     login: "0955ken"
     avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
@@ -556,7 +548,7 @@ private_users:
     company: "non governmental organization"
     organizations: ""
 
-  - rank: 10
+  - rank: 9
     name: "William Ror Jr"
     login: "williams-ror"
     avatarUrl: https://avatars.githubusercontent.com/u/197769484?u=872f66f48b961df81b2102f20a896c35ebb3102f&v=4
@@ -564,7 +556,7 @@ private_users:
     company: "UniPod South Sudan"
     organizations: ""
 
-  - rank: 11
+  - rank: 10
     name: "NEXT GENERATION SOLUTIONS "
     login: "next-gen-solutions-coder"
     avatarUrl: https://avatars.githubusercontent.com/u/214218297?v=4
@@ -572,12 +564,20 @@ private_users:
     company: "Next Generation Solutions"
     organizations: ""
 
-  - rank: 12
+  - rank: 11
     name: "Chol Peter"
     login: "cholbol"
     avatarUrl: https://avatars.githubusercontent.com/u/128136033?v=4
     contributions: 0
     company: "charly rio "
+    organizations: ""
+
+  - rank: 12
+    name: "Marko Makuach Garang Wol "
+    login: "GarangWol"
+    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 13
@@ -605,11 +605,11 @@ private_users:
     organizations: ""
 
   - rank: 16
-    name: "Marko Makuach Garang Wol "
-    login: "GarangWol"
-    avatarUrl: https://avatars.githubusercontent.com/u/162691289?v=4
+    name: "Yason "
+    login: "yason-20"
+    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
     contributions: 0
-    company: ""
+    company: "Codemate Tech "
     organizations: ""
 
   - rank: 17
@@ -653,14 +653,6 @@ private_users:
     organizations: ""
 
   - rank: 22
-    name: "Yason "
-    login: "yason-20"
-    avatarUrl: https://avatars.githubusercontent.com/u/76183270?u=6924b7e1ccc54758b26aa178cd2e7cf1281104f2&v=4
-    contributions: 0
-    company: "Codemate Tech "
-    organizations: ""
-
-  - rank: 23
     name: "Dut Majak"
     login: "DutM"
     avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
@@ -668,7 +660,7 @@ private_users:
     company: "SSICI Project"
     organizations: ""
 
-  - rank: 24
+  - rank: 23
     name: "Denaya Dennis"
     login: "denayadennis"
     avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
@@ -676,7 +668,7 @@ private_users:
     company: "@konetahub "
     organizations: ""
 
-  - rank: 25
+  - rank: 24
     name: "gatkouth nyuel"
     login: "gatkouth20"
     avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
@@ -684,7 +676,7 @@ private_users:
     company: "st.lawrence university"
     organizations: ""
 
-  - rank: 26
+  - rank: 25
     name: "Malish Alex"
     login: "alexmalish24"
     avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
@@ -692,12 +684,20 @@ private_users:
     company: "United Nations Mission in South Sudan"
     organizations: ""
 
-  - rank: 27
+  - rank: 26
     name: "Junior Billkid "
     login: "JuniorBillkid"
     avatarUrl: https://avatars.githubusercontent.com/u/89477193?v=4
     contributions: 0
     company: "U,D,S revolutionary"
+    organizations: ""
+
+  - rank: 27
+    name: "David Gap"
+    login: "KdavidGap"
+    avatarUrl: https://avatars.githubusercontent.com/u/97264655?u=0bb62e77f36c7797dfb49f02a876f96a96e1a59c&v=4
+    contributions: 0
+    company: "Ram Talent co."
     organizations: ""
 
   - rank: 28
@@ -741,7 +741,7 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2025-12-24T13:57:54Z
+generated: 2025-12-29T15:55:36Z
 min_followers_required: 0
 total_user_count: 30
 title: South Sudan
