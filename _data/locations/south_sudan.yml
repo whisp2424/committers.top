@@ -138,6 +138,14 @@ users:
     organizations: ""
 
   - rank: 18
+    name: "gatkouth nyuel"
+    login: "gatkouth20"
+    avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
+    contributions: 0
+    company: "st.lawrence university"
+    organizations: ""
+
+  - rank: 19
     name: "zeko970"
     login: "Zeko970"
     avatarUrl: https://avatars.githubusercontent.com/u/63145452?u=9c70ff1c3cc007df8bc31cd67a38325801d93cb4&v=4
@@ -145,7 +153,7 @@ users:
     company: "Zakaria & Borthers co LIT"
     organizations: ""
 
-  - rank: 19
+  - rank: 20
     name: "Lobur Elikana "
     login: "Loburelikana2"
     avatarUrl: https://avatars.githubusercontent.com/u/132959007?v=4
@@ -153,7 +161,7 @@ users:
     company: "Biometrics department "
     organizations: ""
 
-  - rank: 20
+  - rank: 21
     name: "TMK"
     login: "Abrahammaruor"
     avatarUrl: https://avatars.githubusercontent.com/u/145351528?u=8202fe7471db5a7a8ef5a48f722853bb1316ec4d&v=4
@@ -161,20 +169,12 @@ users:
     company: "Gpoc"
     organizations: ""
 
-  - rank: 21
+  - rank: 22
     name: "James Maluak "
     login: "Jmnb2023"
     avatarUrl: https://avatars.githubusercontent.com/u/127028099?v=4
     contributions: 0
     company: "Media news company "
-    organizations: ""
-
-  - rank: 22
-    name: "gatkouth nyuel"
-    login: "gatkouth20"
-    avatarUrl: https://avatars.githubusercontent.com/u/14345598?u=d30b46e5b466e47197ee8f4e0e90bbcbafb4e5e8&v=4
-    contributions: 0
-    company: "st.lawrence university"
     organizations: ""
 
   - rank: 23
@@ -379,6 +379,14 @@ users_public_contributions:
     organizations: ""
 
   - rank: 18
+    name: "Dut Majak"
+    login: "DutM"
+    avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
+    contributions: 0
+    company: "SSICI Project"
+    organizations: ""
+
+  - rank: 19
     name: "zeko970"
     login: "Zeko970"
     avatarUrl: https://avatars.githubusercontent.com/u/63145452?u=9c70ff1c3cc007df8bc31cd67a38325801d93cb4&v=4
@@ -386,7 +394,7 @@ users_public_contributions:
     company: "Zakaria & Borthers co LIT"
     organizations: ""
 
-  - rank: 19
+  - rank: 20
     name: "Lobur Elikana "
     login: "Loburelikana2"
     avatarUrl: https://avatars.githubusercontent.com/u/132959007?v=4
@@ -394,7 +402,7 @@ users_public_contributions:
     company: "Biometrics department "
     organizations: ""
 
-  - rank: 20
+  - rank: 21
     name: "TMK"
     login: "Abrahammaruor"
     avatarUrl: https://avatars.githubusercontent.com/u/145351528?u=8202fe7471db5a7a8ef5a48f722853bb1316ec4d&v=4
@@ -402,20 +410,12 @@ users_public_contributions:
     company: "Gpoc"
     organizations: ""
 
-  - rank: 21
+  - rank: 22
     name: "James Maluak "
     login: "Jmnb2023"
     avatarUrl: https://avatars.githubusercontent.com/u/127028099?v=4
     contributions: 0
     company: "Media news company "
-    organizations: ""
-
-  - rank: 22
-    name: "Dut Majak"
-    login: "DutM"
-    avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
-    contributions: 0
-    company: "SSICI Project"
     organizations: ""
 
   - rank: 23
@@ -621,6 +621,14 @@ private_users:
     organizations: ""
 
   - rank: 18
+    name: "Dut Majak"
+    login: "DutM"
+    avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
+    contributions: 0
+    company: "SSICI Project"
+    organizations: ""
+
+  - rank: 19
     name: "zeko970"
     login: "Zeko970"
     avatarUrl: https://avatars.githubusercontent.com/u/63145452?u=9c70ff1c3cc007df8bc31cd67a38325801d93cb4&v=4
@@ -628,7 +636,7 @@ private_users:
     company: "Zakaria & Borthers co LIT"
     organizations: ""
 
-  - rank: 19
+  - rank: 20
     name: "Lobur Elikana "
     login: "Loburelikana2"
     avatarUrl: https://avatars.githubusercontent.com/u/132959007?v=4
@@ -636,7 +644,7 @@ private_users:
     company: "Biometrics department "
     organizations: ""
 
-  - rank: 20
+  - rank: 21
     name: "TMK"
     login: "Abrahammaruor"
     avatarUrl: https://avatars.githubusercontent.com/u/145351528?u=8202fe7471db5a7a8ef5a48f722853bb1316ec4d&v=4
@@ -644,20 +652,12 @@ private_users:
     company: "Gpoc"
     organizations: ""
 
-  - rank: 21
+  - rank: 22
     name: "James Maluak "
     login: "Jmnb2023"
     avatarUrl: https://avatars.githubusercontent.com/u/127028099?v=4
     contributions: 0
     company: "Media news company "
-    organizations: ""
-
-  - rank: 22
-    name: "Dut Majak"
-    login: "DutM"
-    avatarUrl: https://avatars.githubusercontent.com/u/42735905?u=846456d29e7f3a4b195c43b0c88887fd99161823&v=4
-    contributions: 0
-    company: "SSICI Project"
     organizations: ""
 
   - rank: 23
@@ -741,7 +741,7 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2026-01-26T01:13:11Z
+generated: 2026-01-31T01:13:13Z
 min_followers_required: 0
 total_user_count: 30
 title: South Sudan
