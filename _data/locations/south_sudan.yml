@@ -5,7 +5,7 @@ users:
     name: "Garang Makuach Deng"
     login: "garango123"
     avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
-    contributions: 23
+    contributions: 31
     company: "University of the people "
     organizations: ""
 
@@ -58,11 +58,11 @@ users:
     organizations: ""
 
   - rank: 8
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Kinqly"
     organizations: ""
 
   - rank: 9
@@ -106,11 +106,11 @@ users:
     organizations: ""
 
   - rank: 14
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 15
@@ -138,19 +138,19 @@ users:
     organizations: ""
 
   - rank: 18
-    name: "Malish Alex"
-    login: "alexmalish24"
-    avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
-    contributions: 0
-    company: "United Nations Mission in South Sudan"
-    organizations: ""
-
-  - rank: 19
     name: "zeko970"
     login: "Zeko970"
     avatarUrl: https://avatars.githubusercontent.com/u/63145452?u=9c70ff1c3cc007df8bc31cd67a38325801d93cb4&v=4
     contributions: 0
     company: "Zakaria & Borthers co LIT"
+    organizations: ""
+
+  - rank: 19
+    name: "Malish Alex"
+    login: "alexmalish24"
+    avatarUrl: https://avatars.githubusercontent.com/u/158851844?u=da55b5ae4f246190be0f14957f27d6732da2212c&v=4
+    contributions: 0
+    company: "United Nations Mission in South Sudan"
     organizations: ""
 
   - rank: 20
@@ -238,7 +238,7 @@ users_public_contributions:
     name: "Garang Makuach Deng"
     login: "garango123"
     avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
-    contributions: 28
+    contributions: 36
     company: "University of the people "
     organizations: ""
 
@@ -307,11 +307,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 10
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Kinqly"
     organizations: ""
 
   - rank: 11
@@ -339,11 +339,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 14
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 15
@@ -371,19 +371,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 18
-    name: "Denaya Dennis"
-    login: "denayadennis"
-    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
-    contributions: 0
-    company: "@konetahub "
-    organizations: ""
-
-  - rank: 19
     name: "zeko970"
     login: "Zeko970"
     avatarUrl: https://avatars.githubusercontent.com/u/63145452?u=9c70ff1c3cc007df8bc31cd67a38325801d93cb4&v=4
     contributions: 0
     company: "Zakaria & Borthers co LIT"
+    organizations: ""
+
+  - rank: 19
+    name: "Denaya Dennis"
+    login: "denayadennis"
+    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
+    contributions: 0
+    company: "@konetahub "
     organizations: ""
 
   - rank: 20
@@ -472,7 +472,7 @@ private_users:
     name: "Garang Makuach Deng"
     login: "garango123"
     avatarUrl: https://avatars.githubusercontent.com/u/216372077?u=a2a144a61b657588aa6c879d00563d7086b1ec77&v=4
-    contributions: 28
+    contributions: 36
     company: "University of the people "
     organizations: ""
 
@@ -541,11 +541,11 @@ private_users:
     organizations: ""
 
   - rank: 10
-    name: "William Deng Lual Deng "
-    login: "0912222213"
-    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
+    name: ""
+    login: "Kinqly"
+    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
     contributions: 0
-    company: "Kampala university "
+    company: "Kinqly"
     organizations: ""
 
   - rank: 11
@@ -573,11 +573,11 @@ private_users:
     organizations: ""
 
   - rank: 14
-    name: ""
-    login: "Kinqly"
-    avatarUrl: https://avatars.githubusercontent.com/u/54659224?v=4
+    name: "William Deng Lual Deng "
+    login: "0912222213"
+    avatarUrl: https://avatars.githubusercontent.com/u/68155181?v=4
     contributions: 0
-    company: "Kinqly"
+    company: "Kampala university "
     organizations: ""
 
   - rank: 15
@@ -605,19 +605,19 @@ private_users:
     organizations: ""
 
   - rank: 18
-    name: "Denaya Dennis"
-    login: "denayadennis"
-    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
-    contributions: 0
-    company: "@konetahub "
-    organizations: ""
-
-  - rank: 19
     name: "zeko970"
     login: "Zeko970"
     avatarUrl: https://avatars.githubusercontent.com/u/63145452?u=9c70ff1c3cc007df8bc31cd67a38325801d93cb4&v=4
     contributions: 0
     company: "Zakaria & Borthers co LIT"
+    organizations: ""
+
+  - rank: 19
+    name: "Denaya Dennis"
+    login: "denayadennis"
+    avatarUrl: https://avatars.githubusercontent.com/u/12326292?u=41bbcbbba254a234d40d7ff0ba20c72d63686aff&v=4
+    contributions: 0
+    company: "@konetahub "
     organizations: ""
 
   - rank: 20
@@ -717,7 +717,7 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2026-02-15T01:13:30Z
+generated: 2026-02-20T01:13:19Z
 min_followers_required: 0
 total_user_count: 29
 title: South Sudan
