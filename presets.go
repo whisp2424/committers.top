@@ -619,7 +619,7 @@ var PRESETS = map[string]QueryPreset{
 	},
 	"costa rica": QueryPreset{
 		title:   "Costa Rica",
-		include: []string{"costa+rica", "san+josé,+costa+rica", "heredia", "cartago", "alajuela", "liberia,+costa+rica"},
+		include: []string{"costa+rica", "san+josé", "alajuela", "cartago", "heredia", "guanacaste", "puntarenas", "limón"},
 	},
 }
 
