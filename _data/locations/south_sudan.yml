@@ -50,19 +50,19 @@ users:
     organizations: ""
 
   - rank: 7
-    name: "Chewaka fikadu "
-    login: "chewaka14"
-    avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 8
     name: "United voice for change international"
     login: "0955ken"
     avatarUrl: https://avatars.githubusercontent.com/u/186566626?v=4
     contributions: 1
     company: "non governmental organization"
+    organizations: ""
+
+  - rank: 8
+    name: "Chewaka fikadu "
+    login: "chewaka14"
+    avatarUrl: https://avatars.githubusercontent.com/u/216952986?v=4
+    contributions: 1
+    company: ""
     organizations: ""
 
   - rank: 9
@@ -741,7 +741,7 @@ private_organizations:
   - rank: 1
     name: "konetahub"
     membercount: 1
-generated: 2026-04-26T08:45:29Z
+generated: 2026-05-01T15:44:07Z
 min_followers_required: 0
 total_user_count: 30
 title: South Sudan
